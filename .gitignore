@@ -107,8 +107,9 @@ open-sse/test/*
 test-results/
 playwright-report/
 blob-report/
-cloud/
+/cloud/
 .tmp/
+
 
 # Security Analysis (standalone project with own git)
 security-analysis/
